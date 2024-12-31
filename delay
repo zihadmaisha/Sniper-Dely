@@ -1,0 +1,4 @@
+{
+  "search": "A0 E1 00 10 A0 E3 6A 14 01 EB 00 00 00 EA 00 60 A0 E3",
+  "replace": "A0 E1 00 10 A0 E3 6A 14 01 EB 00 00 00 EA 00 60 A0 F3"
+}
